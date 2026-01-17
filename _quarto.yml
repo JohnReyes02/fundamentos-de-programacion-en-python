@@ -1,0 +1,44 @@
+project:
+  type: book
+  output-dir: docs
+
+lang: es
+
+execute: 
+  freeze: auto
+
+book:
+  title: "Fundamentos de Programación en Python"
+  author: "Edwin John Fredy Reyes Aguirre"
+  reader-mode: false
+  date: last-modified
+
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
+  
+  repo-url: https://github.com/JohnReyes02/fundamentos-de-programacion-en-python
+  repo-branch: main
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, facebook, linkedin]
+
+  chapters:
+    - part: "Introducción a Python para Desarrolladores"
+      chapters:
+        - 01_Introudccion_a_python_para_desarrolladores/index.qmd
+
+website:
+  site-url: https://johnreyes02.github.io/fundamentos-de-programacion-en-python/
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    toc: true
+    toc-title: 'Contenido'
+    number-sections: false
+    code-copy: true
+    code-overflow: wrap
+    fig-align: center
