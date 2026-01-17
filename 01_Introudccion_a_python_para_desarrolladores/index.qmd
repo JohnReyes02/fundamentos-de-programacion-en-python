@@ -1,0 +1,21 @@
+# Bienvenida {.unnumbered}
+
+📊 Nivel: Principiante  
+🕒 Duración estimada: 3 horas  
+🎥 Incluye código, visualizaciones y ejercicios
+
+---
+
+## Descripción
+
+¿Tienes ganas de sumergirte en el mundo de la programación pero no sabes por dónde empezar? Este curso es para ti, diseñado específicamente para principiantes sin experiencia previa en programación. Python, es un lenguaje versátil y potente, ¡perfecto para el desarrollo de software!
+
+Este curso te introduce en conceptos clave, desde la creación de comentarios de código y la realización de cálculos hasta el descubrimiento de los tipos de datos incorporados de Python, ¡incluidos los flotantes, las cadenas, los enteros y los valores booleanos! Aprenderás a almacenar información en variables utilizando diversas estructuras de datos, como listas, diccionarios, conjuntos y tuplas.
+
+Progresarás en los operadores de comparación, utilizándolos para desarrollar un flujo de trabajo personalizado que ejecute condicionalmente código en función de si se cumplen las condiciones. El curso termina introduciendo los bucles for y while, que son esenciales para iterar sobre los datos y ejecutar tareas.
+
+## Módulos del curso
+
+1. Inrtroducción a Python  
+2. Trabajar con tipo de datos
+3. Flujo de control y bucles

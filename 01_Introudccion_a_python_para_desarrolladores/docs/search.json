@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción a Python para desarrolladores",
+    "section": "",
+    "text": "Bienvenida\n📊 Nivel: Principiante\n🕒 Duración estimada: 3 horas\n🎥 Incluye código, visualizaciones y ejercicios",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "Capitulos",
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#descripción",
+    "href": "index.html#descripción",
+    "title": "Introducción a Python para desarrolladores",
+    "section": "Descripción",
+    "text": "Descripción\n¿Tienes ganas de sumergirte en el mundo de la programación pero no sabes por dónde empezar? Este curso es para ti, diseñado específicamente para principiantes sin experiencia previa en programación. Python, es un lenguaje versátil y potente, ¡perfecto para el desarrollo de software!\nEste curso te introduce en conceptos clave, desde la creación de comentarios de código y la realización de cálculos hasta el descubrimiento de los tipos de datos incorporados de Python, ¡incluidos los flotantes, las cadenas, los enteros y los valores booleanos! Aprenderás a almacenar información en variables utilizando diversas estructuras de datos, como listas, diccionarios, conjuntos y tuplas.\nProgresarás en los operadores de comparación, utilizándolos para desarrollar un flujo de trabajo personalizado que ejecute condicionalmente código en función de si se cumplen las condiciones. El curso termina introduciendo los bucles for y while, que son esenciales para iterar sobre los datos y ejecutar tareas.",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "index.html#módulos-del-curso",
+    "href": "index.html#módulos-del-curso",
+    "title": "Introducción a Python para desarrolladores",
+    "section": "Módulos del curso",
+    "text": "Módulos del curso\n\nInrtroducción a Python\n\nTrabajar con tipo de datos\nFlujo de control y bucles",
+    "crumbs": [
+      "Bienvenida"
+    ]
+  },
+  {
+    "objectID": "01_Introduccion_a_python.html",
+    "href": "01_Introduccion_a_python.html",
+    "title": "Introducción a Python",
+    "section": "",
+    "text": "¿Qué es Python?\nDescubre las maravillas de Python: por qué es popular y cómo utilizarlo. ¡No se requieren conocimientos previos!",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción a Python</span>"
+    ]
+  },
+  {
+    "objectID": "03_Flujo_de_control_y_bucles.html",
+    "href": "03_Flujo_de_control_y_bucles.html",
+    "title": "Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "01_Introduccion_a_python.html#qué-es-python",
+    "href": "01_Introduccion_a_python.html#qué-es-python",
+    "title": "Introducción a Python",
+    "section": "",
+    "text": "Python es un lenguaje de programación de propósito general utilizado para crear casi cualquier sofware.\nLa sintaxis de alto nivel de Python se parece al lenguaje natural.\nPython tiene paquetes de software disponibles públicamente, que son códigos escritos por otros desarrolladores que podemos utilizar en lugar de escribir una función desde cero.\nEs gratuito y de código abierto, lo que significa que cualquiera puede usarlo, modificarlo y distribuirlo como crea conveniente.\nLos usos más comunes de Python incluyen:\n\nAutomatización\nDesarrollo Web\nTareas de IA\nInformes\nWeb Scraping\nReconocimiento de Imagen\n\n\n\nEjecutar tu primer script de python\nEn este ejercicio ejecutarás tu primer código en Python.\n\nInstrucciones\n\nPulsa el botón Ejecutar código para ejecutar el script de Python y ver los resultados en el área del shell de Python.\nPulsa el botón Enviar respuesta para pasar al siguiente ejecticio.\n\n\nprint('I Love Python')\n\nI Love Python\n\n\nAcabas de ejecutar tu primer código en Python. Esto es solo el comienzo; pronto estarás escribiendo programas en Python más complejos y potentes.\n\n\n\nEscribir tu primer script en Python\nAhora, escribirás tu primer línea de código Python.\nLa función print() de Python muestra mensajes y resultados de código en el intérprete de comandos.\n\nInstrucciones\n\nUtiliza la función incorporada de Python print() para mostrar \"Learning Python\".\n\n\n# Replace ____ below to display \"Learning Python\"\nprint('Learning Python')\n\nLearning Python\n\n\nHaz impreso corectamente ‘Learning Python’, usando la función print() dentre del shell de Python. La función print() asegura que siempre mostrarás mensajes en el shell de Python.",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción a Python</span>"
+    ]
+  },
+  {
+    "objectID": "01_Introduccion_a_python.html#sintásis-de-python",
+    "href": "01_Introduccion_a_python.html#sintásis-de-python",
+    "title": "Introducción a Python",
+    "section": "Sintásis de Python",
+    "text": "Sintásis de Python\n\nPrincipales operadores\n\nSuma: +\nResta: -\nMultiplicación *\nDivisión: /\nMódulo: %\n\nLos comentarios en el código se escriben iniciando con un #\n\n\nPython como calculadora\nTrabajar con números y realizar cálculos son tareas de programación muy comunes. En este ejercicio, debes realizar dos cálculos.\n\nInstrucciones\n\nImprime la suma de 19 + 17.\nImprime el resultado de restar 12 a 99.\n\n\n# Add 19 and 17\nprint(19 + 17)\n\n# Subtract 12 from 99\nprint(99 - 12)\n\n36\n87\n\n\nPython puede ayudarte a hacer sumas y restas básicas, una habilidad que será útil para una variedad de tareas al construir software.\n\n\n\nMás cálculos\nPython puede realizar cálculos más complejos, como multiplicaciones y divisiones. Ahora, realizarás estos cálculos e imprimirás sus resultados.\n\nInstrucciones\n\nImprime el resultado de 9 multiplicado por 2.\nImprime el resultado de dividir 120 enre 12.\n\n\n# Calculate and print 9 multiplied by 2\nprint(9 * 2)\n\n# Print the result of dividing 120 by 12\nprint(120 / 12)\n\n18\n10.0\n\n\nHasta ahora has trabajado con números y aprendido lo básico de la multiplicación y la división.¡Vamos a descubrir otros números que no son enteros en el próximo video!",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción a Python</span>"
+    ]
+  },
+  {
+    "objectID": "01_Introduccion_a_python.html#variables",
+    "href": "01_Introduccion_a_python.html#variables",
+    "title": "Introducción a Python",
+    "section": "Variables",
+    "text": "Variables\n\nEn Python los números enteros se clasifican como enteros.\nLos números decimales se clasifican como flotantes.\nPython no requiere que especifiquemos el tipo de datos de una variable.\nLa función type() permite verificar qué tipo de datos es una variable.\n\n\ncustomer_age = 26\naccount_balance = 58.50\n\n# Print Data Type\nprint(type(customer_age))\nprint(type(account_balance))\n\n&lt;class 'int'&gt;\n&lt;class 'float'&gt;\n\n\n\nUn dato booleano solo puede tener dos valores posible:\n\nVerdadero\nFalso\n\n\n\nis_active_costumer = True\nprint(type(is_active_costumer))\n\n&lt;class 'bool'&gt;\n\n\n\nTrabajar con variables numéricas\nPython te permite establecer variables como números enteros o números con decimales. En este ejercicio, probarás a utilizar distintos valores numéricos para las variables.\n\nInstrucciones\n\nCrea una variable llamada account_balance con el valor 120.50.\nImprime la variable account_balance.\n\n\n# Age of a costumer\ncostumer_age = 27\n\n# Create account_balance variable\naccount_balance = 120.5\n\n# Print account_balance\nprint(account_balance)\n\n120.5\n\n\nEn el próximo ejercicio, aprenderás sobre la reutilización de variables y también aprenderás más sobre tipos de datos.\n\n\n\nActualizar los valores de las variables\nLas variables pueden actualizarse para que posean nuevos valores en cualquier momento, para que puedas reutilizarlas eficazmente. Los valores booleanos solo pueden ser True o False, similar a Sí/No.\n¡Al cliente le ha tocado la lotería! Actualiza las variables account_balance e is_millionaire para que reflejen su nuevo estado.\n\nInstrucciones\n\nActualiza el account_balance para que sea 1300000.00.\nActualiza la variable is_millionaire para que sea True.\nImprime la variable is_millionaire para ver su valor booleano actualizado.\n\n\naccount_balance = 20000.00\nis_millionaire = False\n\n# Update acoount balance\naccount_balance = 1300000.00\n# Update is_millionaire variable\nis_millionaire = True\n\nprint(account_balance)\nprint(is_millionaire)\n\n1300000.0\nTrue\n\n\nAhora has aprendido a actualizar variables, trabajar con valores booleanos y has trabajado con algunos tipos de datos. En el siguiente paso, aprenderás a determinar internamente el tipo de datos de cada variable según lo establecido por Python.\n\n\n\nComprobación de los tipos de datos\nPython nos facilita la vida al inferir el tipo de dato de las variables con las que trabajas, evitando la necesidad de declarar el tipo de datos explícitamente.\nPractiquemos la comprobación del tipo de datos de distintos valores y variables. Tienes tres variables: customer_age, account_balance e is_millionaire, y aprenderás a obtener sus tipos de datos.\n\nInstrucciones\n\nImprime el tipo de datos de la variable costumer_age.\n\n\ncostumer_age = 29\n\n# Print the data type of costumer_age\nprint(type(costumer_age))\n\n&lt;class 'int'&gt;\n\n\n\nImprime el tipo de datos de la variable account_balance.\n\n\ncustomer_age = 49\naccount_balance = 120078.89\n\n# Print the data type of account_balance\nprint(type(account_balance))\n\n&lt;class 'float'&gt;\n\n\n\nImprime el tipo de datos de la variable is_millionaire.\n\n\ncustomer_age = 49\naccount_balance = 120078.89\nis_millionaire = False\n\n# Print the data type of is_millionaire\nprint(type(is_millionaire))\n\n&lt;class 'bool'&gt;\n\n\nAprenderemos a lo largo del curso que ciertas tareas son posibles dependiendo de los tipos de datos con los que estamos trabajando, como cálculos o filtrado condicional, por lo que conocer el tipo de datos con los que estamos trabajando es extremadamente importante.",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción a Python</span>"
+    ]
+  },
+  {
+    "objectID": "02_Trabajar_con_tipos_de_datos.html",
+    "href": "02_Trabajar_con_tipos_de_datos.html",
+    "title": "Trabajar con tipos de datos",
+    "section": "",
+    "text": "Trabajar con cadenas\nAprende cómo y cuándo utilizar las estructuras de datos integradas en Python, como listas, diccionarios, conjuntos y tuplas.",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Trabajar con tipos de datos</span>"
+    ]
+  },
+  {
+    "objectID": "02_Trabajar_con_tipos_de_datos.html#trabajar-con-cadenas",
+    "href": "02_Trabajar_con_tipos_de_datos.html#trabajar-con-cadenas",
+    "title": "Trabajar con tipos de datos",
+    "section": "",
+    "text": "Las cadenas de caracteres estan en todas partes\n\nLas cadenas de caracteres se utilizan para:\n\nPerfiles de usuarios\nMotores de búsqueda\nModelos grandes de lenguaje",
+    "crumbs": [
+      "Capitulos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Trabajar con tipos de datos</span>"
+    ]
+  }
+]

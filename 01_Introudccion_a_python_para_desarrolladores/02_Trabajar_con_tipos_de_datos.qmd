@@ -1,0 +1,13 @@
+# Trabajar con tipos de datos
+
+Aprende cómo y cuándo utilizar las estructuras de datos integradas en Python, como listas, diccionarios, conjuntos y tuplas.
+
+## Trabajar con cadenas
+
+- Las cadenas de caracteres estan en todas partes
+
+    - Las cadenas de caracteres se utilizan para:
+        - Perfiles de usuarios
+        - Motores de búsqueda
+        - Modelos grandes de lenguaje
+

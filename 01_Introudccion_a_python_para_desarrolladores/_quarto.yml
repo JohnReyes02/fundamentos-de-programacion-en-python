@@ -1,0 +1,45 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Introducción a Python para desarrolladores"
+  reader-mode: false
+
+  author: "Edwin John Fredy Reyes Aguirre"
+  date: "21/6/2025"
+
+  sidebar: 
+    style: docked
+    search: true
+
+  
+  repo-url: https://github.com/JohnReyes02/Datacamp
+  repo-subdir: Fundamentos_de_programacion_en_python\01_Introudccion_a_python_para_desarrolladores
+  repo-branch: main
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, facebook, linkedin]
+
+  chapters:
+    - index.qmd
+    - part: Capitulos
+      chapters: 
+        - 01_Introduccion_a_python.qmd
+        - 02_Trabajar_con_tipos_de_datos.qmd
+        - 03_Flujo_de_control_y_bucles.qmd
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    code-link: false
+    toc: true
+    toc-title: 'Contenido'
+    number-sections: false
+    code-copy: false # Para que se habilite copiar el codigo
+    code-overflow: wrap
+    fig-align: center
+
+
+
